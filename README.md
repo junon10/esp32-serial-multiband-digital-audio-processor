@@ -1,4 +1,4 @@
-# Esp32 Multiband Digital Audio Processor Minimal
+# Esp32 Serial Multiband Digital Audio Processor
 
 ## Features
 
